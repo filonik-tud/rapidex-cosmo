@@ -1,1 +1,8 @@
-{"title": "Hong Kong", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dictum, tellus eget dignissim commodo, magna urna varius augue, et aliquet mauris libero laoreet purus. Vestibulum massa nulla, cursus ultricies ipsum nec, facilisis lacinia eros. Maecenas vel felis gravida lacus aliquet interdum. Pellentesque efficitur urna quis leo fringilla lobortis. Cras dolor ante, sagittis porttitor quam sagittis, ultricies accumsan turpis. In interdum elit nibh, nec efficitur nisl consequat eu. Duis dignissim, ante vitae efficitur fringilla, diam nisl mattis dolor, non elementum lacus nisi eu odio. Vestibulum accumsan sagittis magna ac placerat. Nunc tempus vitae orci in pellentesque. Mauris mattis lacinia dictum. In id sem eget massa finibus dignissim. Duis sit amet elit et tellus congue ullamcorper in et sapien. Integer tempus, orci ut tempus commodo, lectus lacus porttitor mauris, dapibus sollicitudin tortor ante eu magna. Donec tempor pellentesque erat, tempus tempor elit finibus quis. Etiam nulla tortor, ornare nec orci non, congue vehicula dolor.", "image": null, "bounds": [114.0718938, 22.2344599, 114.2742746, 22.3898425]}
+{
+	"en": {
+		"title": "Hong Kong",
+		"description": "<p>Hong Kong is a Special Administrative Region of China, known for its towering skyscrapers, bustling streets, diverse culture, and a major hub for business, finance, and tourism. The city is situated on Hong Kong Island and the Kowloon Peninsula, with the iconic Victoria Harbour separating the two.</p><p>The average trip length in the city is less than 5 kilometers, and it takes 9 minutes to complete. The congestion index for the city’s road network in the morning peak hours is 2.4, and the value of vehicle kilometers traveled stands at 1.6 million. Emission per capita from road transportation for this economy is 1.19 Tons.</p>",
+		"image": null
+	},
+	"bounds": [114.0718938, 22.2344599, 114.2742746, 22.3898425]
+}
